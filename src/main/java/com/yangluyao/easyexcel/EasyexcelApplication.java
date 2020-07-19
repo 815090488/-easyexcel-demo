@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.yangluyao.easyexcel.mapper")
 public class EasyexcelApplication {
 
+
     public static void main(String[] args) {
         SpringApplication.run(EasyexcelApplication.class, args);
     }
